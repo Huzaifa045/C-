@@ -1,0 +1,15 @@
+C:\Users\huzai\Desktop\C#\Distance Calculator\DICE-ROLL-SIMULATOR-ASSIGNMENT\bin\Debug\net7.0\DICE-ROLL-SIMULATOR-ASSIGNMENT.exe
+C:\Users\huzai\Desktop\C#\Distance Calculator\DICE-ROLL-SIMULATOR-ASSIGNMENT\bin\Debug\net7.0\DICE-ROLL-SIMULATOR-ASSIGNMENT.deps.json
+C:\Users\huzai\Desktop\C#\Distance Calculator\DICE-ROLL-SIMULATOR-ASSIGNMENT\bin\Debug\net7.0\DICE-ROLL-SIMULATOR-ASSIGNMENT.runtimeconfig.json
+C:\Users\huzai\Desktop\C#\Distance Calculator\DICE-ROLL-SIMULATOR-ASSIGNMENT\bin\Debug\net7.0\DICE-ROLL-SIMULATOR-ASSIGNMENT.dll
+C:\Users\huzai\Desktop\C#\Distance Calculator\DICE-ROLL-SIMULATOR-ASSIGNMENT\bin\Debug\net7.0\DICE-ROLL-SIMULATOR-ASSIGNMENT.pdb
+C:\Users\huzai\Desktop\C#\Distance Calculator\DICE-ROLL-SIMULATOR-ASSIGNMENT\obj\Debug\net7.0\DICE-ROLL-SIMULATOR-ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\huzai\Desktop\C#\Distance Calculator\DICE-ROLL-SIMULATOR-ASSIGNMENT\obj\Debug\net7.0\DICE-ROLL-SIMULATOR-ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huzai\Desktop\C#\Distance Calculator\DICE-ROLL-SIMULATOR-ASSIGNMENT\obj\Debug\net7.0\DICE-ROLL-SIMULATOR-ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\huzai\Desktop\C#\Distance Calculator\DICE-ROLL-SIMULATOR-ASSIGNMENT\obj\Debug\net7.0\DICE-ROLL-SIMULATOR-ASSIGNMENT.AssemblyInfo.cs
+C:\Users\huzai\Desktop\C#\Distance Calculator\DICE-ROLL-SIMULATOR-ASSIGNMENT\obj\Debug\net7.0\DICE-ROLL-SIMULATOR-ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\huzai\Desktop\C#\Distance Calculator\DICE-ROLL-SIMULATOR-ASSIGNMENT\obj\Debug\net7.0\DICE-ROLL-SIMULATOR-ASSIGNMENT.dll
+C:\Users\huzai\Desktop\C#\Distance Calculator\DICE-ROLL-SIMULATOR-ASSIGNMENT\obj\Debug\net7.0\refint\DICE-ROLL-SIMULATOR-ASSIGNMENT.dll
+C:\Users\huzai\Desktop\C#\Distance Calculator\DICE-ROLL-SIMULATOR-ASSIGNMENT\obj\Debug\net7.0\DICE-ROLL-SIMULATOR-ASSIGNMENT.pdb
+C:\Users\huzai\Desktop\C#\Distance Calculator\DICE-ROLL-SIMULATOR-ASSIGNMENT\obj\Debug\net7.0\DICE-ROLL-SIMULATOR-ASSIGNMENT.genruntimeconfig.cache
+C:\Users\huzai\Desktop\C#\Distance Calculator\DICE-ROLL-SIMULATOR-ASSIGNMENT\obj\Debug\net7.0\ref\DICE-ROLL-SIMULATOR-ASSIGNMENT.dll
